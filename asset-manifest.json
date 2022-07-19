@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectReactJS/static/css/main.720eadf7.css",
-    "main.js": "/projectReactJS/static/js/main.6ee386d7.js",
+    "main.js": "/projectReactJS/static/js/main.8ac7ee41.js",
     "static/js/787.252c5a3f.chunk.js": "/projectReactJS/static/js/787.252c5a3f.chunk.js",
     "static/media/doi-tac-cung-cap.jpg": "/projectReactJS/static/media/doi-tac-cung-cap.1729684376e73e7fae42.jpg",
     "static/media/chinh-sach-bao-hanh.jpg": "/projectReactJS/static/media/chinh-sach-bao-hanh.d4b284795b6fdbe21fa1.jpg",
@@ -291,11 +291,11 @@
     "static/media/de.svg": "/projectReactJS/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/projectReactJS/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "main.720eadf7.css.map": "/projectReactJS/static/css/main.720eadf7.css.map",
-    "main.6ee386d7.js.map": "/projectReactJS/static/js/main.6ee386d7.js.map",
+    "main.8ac7ee41.js.map": "/projectReactJS/static/js/main.8ac7ee41.js.map",
     "787.252c5a3f.chunk.js.map": "/projectReactJS/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.720eadf7.css",
-    "static/js/main.6ee386d7.js"
+    "static/js/main.8ac7ee41.js"
   ]
 }
